@@ -1,0 +1,25 @@
+.grid{
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left:20rem;
+    padding-top: 5rem;
+}
+
+.square{
+    height: 200px;
+    width: 200px;
+    border: solid;
+    border-color: black 0.2px;
+    border-width: 1px;
+}
+.mole{
+    background-color: blue;
+}
+.score-div{
+
+    float: left;
+    padding-left: 5rem;
+    padding-top: 5rem;
+}
